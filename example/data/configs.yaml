@@ -4,5 +4,5 @@ data:
   data_type:
     type: DNA
   data_files:
-    alignment: example/data/alignment/example.phy
-    partition: example/data/partition/example.nex
+    alignment: alignment/example.phy
+    partition: partition/example.nex
