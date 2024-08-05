@@ -1,0 +1,8 @@
+data:
+  meta_info:
+    url: example
+  data_type:
+    type: DNA
+  data_files:
+    alignment: example/data/alignment/example.phy
+    partition: example/data/partition/example.nex
