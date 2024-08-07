@@ -1,0 +1,3 @@
+type,threads,cpus,time
+OPENMP,1,1,1:00:00
+OPENMP,2,1,1:00:00

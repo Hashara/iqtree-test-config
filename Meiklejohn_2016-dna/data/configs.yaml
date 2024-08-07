@@ -1,0 +1,9 @@
+data:
+  meta_info:
+    url: https://github.com/roblanf/BenchmarkAlignments/tree/master/datasets/Meiklejohn_2016
+  data_type:
+    type: DNA
+  data_files:
+    alignment: alignment/alignment.nex
+    partition: partition/alignment.nex
+    tree: tree/tree.txt
